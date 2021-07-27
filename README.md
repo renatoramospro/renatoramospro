@@ -12,8 +12,7 @@
   <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Re-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Re-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Re-kakashi" src="https://media.giphy.com/media/8MyXEVgue4ucw/giphy.gif">
-  <img align="right" alt="Re-kakashi" <iframe src="https://giphy.com/embed/8MyXEVgue4ucw" width="480" height="303" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/naruto-uzumaki-8MyXEVgue4ucw"> ></a></p>
+  <img align="right" alt="Re-kakashi" width="150" height="100"  src="https://media.giphy.com/media/8MyXEVgue4ucw/giphy.gif">
 </div>
   
   ##
