@@ -12,7 +12,7 @@
   <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Re-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Re-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Re-kakashi" src="https://media.giphy.com/media/zwDNti5vWFujS/giphy.gif">
+  <img align="right" alt="Re-kakashi" src="https://media.giphy.com/media/8MyXEVgue4ucw/giphy.gif">
 </div>
   
   ##
