@@ -1,4 +1,5 @@
 ## Oiii! Eu sou o Renato Ramos
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=renatoramospro&repo=renatoramospro&countColorcountColor)
 
  <div>
  
