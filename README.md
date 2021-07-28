@@ -1,6 +1,6 @@
 ## Oiii! Eu sou o Renato Ramos
+
  <div>
- ### Analytics ⚙️
  
   <a href="https://github.com/renatoramospro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoramospro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
