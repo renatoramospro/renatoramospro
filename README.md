@@ -1,5 +1,11 @@
 ## Oiii! Eu sou o Renato Ramos
  <div>
+ ### Analytics ⚙️
+  
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=renatoramospro" />
+  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+</p> 
   <a href="https://github.com/renatoramospro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoramospro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoramospro&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -28,21 +34,3 @@
   ![Snake animation](https://github.com/renatoramospro/renatoramospro/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-<div>
- ### Analytics ⚙️
-  
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=renatoramospro" />
-  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
-</p>  
-  
-<p align="left">
-<a href="https://github.com/renatoramospro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=renatoramospro&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoramospro&layout=compact&langs_count=8&hide=HCL"/>
-</a>
-</p>
-
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
- </div>
