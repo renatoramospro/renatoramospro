@@ -5,7 +5,7 @@ Olá, sou um apaixonado desenvolvedor por Back-end e FrontEnd atualmente no Braz
 
 - 🔭 Atualmente estou trabalhando na empresa [HostHP](https://hosthp.com.br)
 - 🌱 Atualmente estou aprendendo Javascript.
-- 👯 Pretendo colaborar no [Canal Renato Ramos](https://www.youtube.com/channel/UCnQzmUBy_wTG3pP-YVISE_A)
+- 👯 Pretendo colaborar mais no [Canal Renato Ramos](https://www.youtube.com/channel/UCnQzmUBy_wTG3pP-YVISE_A)
 - 💬 Pergunte-me sobre qualquer coisa [Aqui](https://renatoramospro.com.br)
 
  <div>
