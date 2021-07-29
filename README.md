@@ -1,6 +1,16 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=renatoramospro&repo=renatoramospro&countColorcountColor)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Oiii! Eu sou o <a a href="https://renatoramospro.com.br" target="_blank">Renato Ramos !</a></h1>
 
+<br />
+<br />
+
+Olá, sou um apaixonado desenvolvedor por Back-end e FrontEnd do Brazil.
+
+- 🔭 Atualmente estou trabalhando na empresa [HostHP](https://hosthp.com.br)
+- 🌱 Atualmente estou aprendendo Javascript.
+- 👯 Pretendo colaborar no [Canal Renato Ramos](https://www.youtube.com/channel/UCnQzmUBy_wTG3pP-YVISE_A)
+- 💬 Pergunte-me sobre qualquer coisa [Aqui](https://renatoramospro.com.br)
+
  <div>
  
   <a href="https://github.com/renatoramospro">
